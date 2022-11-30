@@ -5,7 +5,7 @@
 [user]
         name = noracami
         email = kerke.2011@gmail.com
-        signingkey = 5C71207BAB9E49EE!
+        signingkey = 6F084595B8AC4C9C
 [core]
         editor = vi
         excludesfile = /Users/kelonghe/.gitignore_global
