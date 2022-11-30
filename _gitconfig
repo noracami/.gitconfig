@@ -1,0 +1,14 @@
+[credential]
+        helper = /usr/local/share/gcm-core/git-credential-manager
+[credential "https://dev.azure.com"]
+        useHttpPath = true
+[user]
+        name = noracami
+        email = kerke.2011@gmail.com
+        signingkey = 5C71207BAB9E49EE!
+[core]
+        editor = vi
+        excludesfile = /Users/kelonghe/.gitignore_global
+        autocrlf = input
+[commit]
+        gpgsign = true
