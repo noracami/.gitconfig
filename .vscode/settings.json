@@ -1,0 +1,60 @@
+{
+  "workbench.colorTheme": "Solarized Light",
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "update.mode": "manual",
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.renderFinalNewline": false,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "explorer.compactFolders": false,
+  "material-icon-theme.showWelcomeMessage": false,
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.persistentSessionReviveProcess": "never",
+  "terminal.integrated.rightClickBehavior": "copyPaste",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.useLocalIp": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "erb": "erb",
+    "javascript": "javascriptreact" // 讓 JS 支援 html emmet
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true // 搭配 ESLint extensions
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[erb]": {
+    "editor.defaultFormatter": "aliariff.vscode-erb-beautify"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "files.insertFinalNewline": true,
+  "editor.fontFamily": "'Victor Mono'",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wordWrapColumn": 120,
+  "editor.fontSize": 18,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 2,
+  "ruby.lint": { "rubocop": true },
+  "cSpell.enableFiletypes": ["ruby"]
+}
